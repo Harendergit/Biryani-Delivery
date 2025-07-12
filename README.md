@@ -9,7 +9,7 @@
   </div>
 
 
-# 🍽️ Welcome to My Biryani Delivery Project
+# 🍽️ Welcome to My Biryani Express Project
 
 ## 🚀 Project Info
 
@@ -18,7 +18,6 @@
 This is a modern, fast, and beautifully designed Biryani delivery web application built to provide users with a smooth ordering experience.
 
 ---
-
 ## ✏️ How Can I Edit This Code?
 
 You have a few different ways to edit and work on this project:
@@ -39,3 +38,43 @@ npm install
 
 # Step 4: Start the development server
 npm run dev
+
+
+📋 Table of Contents
+- 🤖 Introduction
+- ⚙️ Tech Stack
+- 🔋 Features
+- 🤸 Quick Start
+- 🔗 Assets
+- 🚀 More
+
+🤖 Introduction
+Provides an overview of the Biryani Delivery App—what it does, who it’s for, and why it exists.
+It sets the tone and purpose, highlighting how the app streamlines biryani ordering with customization, tracking, and user feedback.
+
+⚙️ Tech Stack
+Lists the technologies and frameworks used in building the app.
+This includes everything from frontend tools (like HTML/CSS or React) to backend servers (Flask, Node.js) and databases.
+It helps developers understand the architecture and choose the right tools when contributing or deploying.
+
+🔋 Features
+Showcases the app’s capabilities, such as:
+- Customizing biryani orders
+- Real-time tracking of deliveries
+- Secure payments and authentication
+- Rating system and admin control
+These are the selling points—what makes your app stand out!
+
+🤸 Quick Start
+A step-by-step guide to get the project running on a local machine.
+It’s like the developer’s recipe to cook up the app quickly—clone, install, and run!
+
+🔗 Assets
+Describes the project’s resources: datasets, APIs, UI templates, images, and scripts.
+These files enable core functionality and visual appeal, making the app both useful and user-friendly.
+
+🚀 More
+Covers future plans and expansion ideas.
+Think smart suggestions based on customer history, rewards programs, cloud kitchens, or deep learning integrations.
+This part shows ambition and growth potential.
+
