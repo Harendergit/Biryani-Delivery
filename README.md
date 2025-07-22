@@ -41,6 +41,7 @@ npm run dev
 
 
 📋 Table of Contents
+
 - 🤖 Introduction
 - ⚙️ Tech Stack
 - 🔋 Features
